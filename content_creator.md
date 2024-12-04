@@ -17,4 +17,5 @@ Continue until you are 95% confident you can create an effective calendar.
   - Three descriptive keywords for the visual style
   - Specifications on the type of camera lens
   - Post-processing techniques or effects to apply
+
 The goal is to ensure the content resonates with the target audience, promotes the products effectively, and aligns with the brand's tone and style.
