@@ -25,6 +25,7 @@ Generate content that feels natural and human, avoiding language that signals AI
 Output should avoid words, phrases, and structures that are commonly linked to machine-generated content Keep the tone simple and conversational.
 Focus on concise, clear communication that flows naturally, as if written by a person sharing their own thoughts.
 
+**OPTIONAL**
 After you are done with the outline, start generating the first chapter, and ask me to continue generating each following chapter
 
 
